@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Taseen Arshad - Information Systems, Cloud, Cybersecurity, Software Development">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#090714"/><stop offset=".55" stop-color="#1b1037"/><stop offset="1" stop-color="#100a21"/></linearGradient>
+ <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#a855f7"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="32"/></filter>
+ <style>
+ .small{font:600 18px Arial,sans-serif;letter-spacing:5px;fill:#c4b5fd}.name{font:700 62px Arial,sans-serif;fill:#f5f3ff}.sub{font:400 23px Arial,sans-serif;fill:#ddd6fe}.tiny{font:500 16px Arial,sans-serif;fill:#c4b5fd}
+ .orbit{animation:float 7s ease-in-out infinite alternate;transform-origin:1030px 150px}.line{animation:fade 4s ease-in-out infinite alternate}@keyframes float{to{transform:translateY(-12px) rotate(4deg)}}@keyframes fade{to{opacity:.25}}
+ </style>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<circle cx="1030" cy="130" r="135" fill="#7c3aed" opacity=".22" filter="url(#blur)"/>
+<path d="M0 286 L1200 286" stroke="#a855f7" opacity=".23"/>
+<g opacity=".24" stroke="#c4b5fd" fill="none"><path d="M770 0L1110 330M850 0L1190 330M940 0L1200 245M1020 0L1200 180"/><path d="M750 70H1200M750 150H1200M750 230H1200"/></g>
+<g class="orbit" fill="none" stroke="url(#glow)" stroke-width="2.5"><polygon points="1010,28 1132,96 1132,224 1010,292 888,224 888,96"/><polygon points="1010,76 1090,119 1090,202 1010,245 930,202 930,119"/><path d="M888 96L1090 202M1132 96L930 202M1010 28V245" opacity=".6"/></g>
+<circle class="line" cx="1010" cy="160" r="10" fill="#c084fc"/>
+<rect x="54" y="48" width="8" height="20" rx="3" fill="#a855f7"/>
+<text x="79" y="65" class="small">WELCOME TO MY GITHUB</text>
+<text x="54" y="150" class="name">Taseen Arshad</text>
+<text x="56" y="198" class="sub">Information Systems · Cloud · Cybersecurity · Development</text>
+<text x="56" y="250" class="tiny">Building practical solutions. Learning across disciplines.</text>
+</svg>
