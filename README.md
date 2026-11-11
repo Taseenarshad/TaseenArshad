@@ -84,18 +84,6 @@ A hands-on networking and security lab focused on capturing, filtering, and exam
 
 *Verification links can be added later.*
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taseenarshad&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0B0B13&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" alt="GitHub activity statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taseenarshad&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0B0B13&title_color=C084FC&text_color=E9D5FF" alt="Top languages across public repositories" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taseenarshad&bg_color=0b0b13&color=c4b5fd&line=a855f7&point=f5f3ff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="98%" />
-</div>
-
-<sub>Statistics are supplied by external services and may occasionally fail to load. Language breakdowns describe repository code, not skill proficiency.</sub>
 
 ## 🌱 What I'm Building & Exploring
 
