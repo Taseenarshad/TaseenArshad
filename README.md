@@ -22,7 +22,7 @@ I'm an **Information Systems senior at the University of Texas at Arlington**, e
 
 My interests span **cybersecurity, cloud computing, software development, networking, and IT infrastructure**. I enjoy understanding how these disciplines connect—and turning what I learn into practical projects.
 
-My work includes an **AWS Security Monitoring Lab** for cloud audit logging, detection, and alerting; **DocTime**, a full-stack medical appointment management application; and an **in-progress Wireshark Network Traffic Analysis Lab** focused on packet inspection and network protocols.
+MMy work includes an **AWS Security Monitoring Lab** for cloud audit logging, detection, and alerting; **DocTime**, a full-stack medical appointment management application; and a **Network Intrusion Detection Lab** using Wireshark and Suricata to investigate network protocols, analyze security alerts, and document findings.
 
 I'm building a broad technical foundation through hands-on experimentation, documentation, and continuous learning. I'm interested in opportunities where I can contribute to real systems, solve meaningful problems, and keep growing across IT disciplines.
 
@@ -47,15 +47,21 @@ I'm building a broad technical foundation through hands-on experimentation, docu
 </tr>
 </table>
 
-### 🔎 Wireshark Network Traffic Analysis Lab · In Progress
 
-A hands-on networking and security lab focused on capturing, filtering, and examining network traffic to understand protocol behavior and investigate network communication.
+### 🔎 Network Intrusion Detection Lab — Wireshark & Suricata
 
-**Planned work:** packet captures, protocol inspection, Wireshark display filters, and evidence-based analysis of observed traffic.
+Conducted a hands-on network security investigation using Wireshark and Suricata IDS to analyze network traffic, investigate detection alerts, and assess potential security events.
 
-`Wireshark` `TCP/IP` `Packet Analysis` `Network Security`
+**Highlights**
+- Completed four documented investigations covering DNS, TCP, TLS, and Suricata IDS.
+- Analyzed TCP connection behavior, retransmissions, DNS resolution, and encrypted TLS communication.
+- Investigated **49 Suricata alerts across three detection signatures**, correlating detections with packet-level evidence.
+- Distinguished likely benign activity from potential security concerns; no confirmed intrusion was established.
 
-> **Project status:** In progress. Add the repository link and replace planned activities with verified results after completion.
+`Wireshark` `Suricata IDS` `TCP/IP` `DNS` `TLS` `Packet Analysis` `Alert Triage`
+
+[Explore repository →](https://github.com/Taseenarshad/network-intrusion-detection-lab)
+  
 
 ## 🧰 Technologies I've Worked With
 
