@@ -61,6 +61,24 @@ Conducted a hands-on network security investigation using Wireshark and Suricata
 `Wireshark` `Suricata IDS` `TCP/IP` `DNS` `TLS` `Packet Analysis` `Alert Triage`
 
 [Explore repository →](https://github.com/Taseenarshad/network-intrusion-detection-lab)
+
+
+### 📊 Online Retail Analytics & Customer Segmentation
+
+Collaborated on an end-to-end retail analytics project using Python, SQL, and Tableau to transform transactional data into business insights.
+
+**Highlights**
+- Processed and analyzed 530,000+ retail transaction records.
+- Supported data cleaning, business KPI analysis, and customer segmentation.
+- Used SQL for analytical queries and Tableau for executive dashboard reporting.
+- Contributed to a collaborative analytics workflow focused on actionable business insights.
+
+`Python` `SQL` `Tableau` `Data Analytics` `Customer Segmentation`
+
+**Project type:** Team collaboration | 2026
+
+[Explore shared repository →](https://github.com/TajwarFahmid/Online_Retail_Analytics)
+  
   
 
 ## 🧰 Technologies I've Worked With
