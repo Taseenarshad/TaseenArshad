@@ -48,6 +48,7 @@ I'm building a broad technical foundation through hands-on experimentation, docu
 </table>
 
 
+
 ### 🔎 Network Intrusion Detection Lab — Wireshark & Suricata
 
 Conducted a hands-on network security investigation using Wireshark and Suricata IDS to analyze network traffic, investigate detection alerts, and assess potential security events.
@@ -61,6 +62,7 @@ Conducted a hands-on network security investigation using Wireshark and Suricata
 `Wireshark` `Suricata IDS` `TCP/IP` `DNS` `TLS` `Packet Analysis` `Alert Triage`
 
 [Explore repository →](https://github.com/Taseenarshad/network-intrusion-detection-lab)
+
 
 
 ### 📊 Online Retail Analytics & Customer Segmentation
